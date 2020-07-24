@@ -56,11 +56,9 @@
 			</dict>
 		</array>
 		<key>Delete</key>
-		<array>
-		</array>
+		<array/>
 		<key>Patch</key>
-		<array>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>FadtEnableReset</key>
@@ -431,8 +429,7 @@
 			</dict>
 		</array>
 		<key>Block</key>
-		<array>
-		</array>
+		<array/>
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
@@ -441,8 +438,7 @@
 			<data></data>
 		</dict>
 		<key>Patch</key>
-		<array>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
@@ -480,8 +476,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -518,7 +513,7 @@
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
 			<key>Target</key>
-			<integer>83</integer>
+			<integer>19</integer>
 		</dict>
 		<key>Entries</key>
 		<array>
@@ -559,8 +554,7 @@
 			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
-		<array>
-		</array>
+		<array/>
 	</dict>
 	<key>NVRAM</key>
 	<dict>
@@ -578,7 +572,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x1000 npci=0x2000 alcid=1 nvda_drv=1</string>
+				<string>keepsyms=1 debug=0x1000 npci=0x2000 alcid=1 nvda_drv=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
