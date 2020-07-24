@@ -3,7 +3,7 @@
 WIP Config for G3-572
 
 # OPENCORE 0.5.9
-
+![configuration](https://i.ibb.co/hM7K7Qt/Screen-Shot-2020-07-24-at-6-03-25-PM.png)
 ## Configuration
 
 **CPU** : i5-7300HQ @ 2,5Ghz
@@ -21,12 +21,10 @@ WIP Config for G3-572
  - [x] Microphone
  - [x] Intel Chipset
  - [x] USB Ports
+ - [x] Webcam
 
  # Not working
  - [x] Touchpad
- - [x] **NO GTX 1050**
- - [x] **Webcam**
- - [x] **HDMI since it's use the GTX** 
  - [x] Wi-Fi
  
  
